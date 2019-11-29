@@ -1,5 +1,5 @@
 # Discord Bot
-
+---
 ## Goals
 1.  Reminders
     -   [x] Add them
@@ -7,7 +7,7 @@
     -   [ ] Edit them
     -   [ ] View active
     -   [x] Save as object to JSON file
-    -   [ ] Read JSON file
+    -   [x] Read JSON file
     -   [ ] Ocasionally check time from a server and compare to time in reminder
     -   [ ] Upload the reminder JSON file if requested (mainly for debugging and development)  
 2.  Manage support tickets
@@ -23,6 +23,17 @@
     -   [ ] Support for both Spotify and YouTube
 4.  Guru roles
     -   [ ] Roles for pople that are exports or at least proficcient in a given language or field
+      -  [ ] Javascript
+      -  [ ] Java
+      -  [ ] HTML
+      -  [ ] CSS
+      -  [ ] Python
+      -  [ ] PHP
+      -  [ ] Ruby
+      -  [ ] C#
+      -  [ ] C++
+      -  [ ] C
+      -  [ ] More?
 5.  Chat bot
     -   [ ] Memes
 6.  Webhooks to websites
